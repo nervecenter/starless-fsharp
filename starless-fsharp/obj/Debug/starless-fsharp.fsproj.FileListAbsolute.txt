@@ -1,0 +1,8 @@
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\starless_fsharp.exe.config
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\starless_fsharp.XML
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\starless_fsharp.exe
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\starless_fsharp.pdb
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\FSharp.Core.dll
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\bin\Debug\FSharp.Core.xml
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\obj\Debug\starless_fsharp.exe
+E:\Chris\Documents\Code Projects\F#\starless-fsharp\starless-fsharp\obj\Debug\starless_fsharp.pdb
